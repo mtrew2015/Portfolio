@@ -1,15 +1,17 @@
-import React, { Component } from "react";
-import "./Nav.scss";
+import React, { Component } from 'react';
+import './Nav.scss';
+import { Link } from 'react-router-dom';
 
 class Nav extends Component {
-  render() {
-    return (
-      <div className="App">
-        <h1>Michael Trew</h1>
-        <h2>Web Developer</h2>
-      </div>
-    );
-  }
+	render() {
+		return (
+			<nav>
+				<Link to='/'>Home</Link>
+				<Link to='/about'>About</Link>
+				<Link to='/projects'>Projects</Link>
+			</nav>
+		);
+	}
 }
 
 export default Nav;
