@@ -12,7 +12,8 @@
 	.menu {
 		display: flex;
 		justify-content: center;
-		width: 100%;
+    width: 100%;
+    border: 2px solid purple;
 
 		:link {
 			display: flex;
