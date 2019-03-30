@@ -9,16 +9,16 @@ class Feature extends Component {
 				<h1>Development Done Better</h1>
 				<div className='boxContainer'>
 					<div className='box'>
-						<h2>Feature One</h2>
+						<h2>Services To Meet Your Companies Needs</h2>
 					</div>
 					<div className='box'>
-						<h2>Feature Two</h2>
+						<h2>Technologies Used To Best Suit Your Project</h2>
 					</div>
 					<div className='box'>
-						<h2>Feature Three</h2>
+						<h2>Thoughtful Workflows</h2>
 					</div>
 					<div className='box'>
-						<h2>Feature Four</h2>
+						<h2>Your Satisfaction Is Ensured</h2>
 					</div>
 				</div>
 			</div>
