@@ -1,12 +1,10 @@
 import React, { Component } from 'react'
-import Jumbotron from '../Home/Jumbotron/Jumbotron'
-import Feature from './FeatureSection/Feature';
+import Body from './MainSection/index';
 export default class home extends Component {
   render() {
     return (
       <div>
-        <Jumbotron/>
-        <Feature/>
+        <Body/>
       </div>
     )
   }

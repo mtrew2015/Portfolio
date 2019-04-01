@@ -1,4 +1,30 @@
-.container {
+.jumbotron {
+	height: 70vh;
+	width: 100%;
+	border: 2px solid red;
+	display: flex;
+	justify-content: center;
+  align-items: center;
+  
+  .body{
+    display:flex;
+    flex-direction: column;
+  }
+
+	.textContainer {
+		width: 30%;
+		display: flex;
+		text-align: center;
+		line-height: 1.5;
+		flex-direction: column;
+		h3 {
+			margin-top: 20%;
+			font-size: 2.4rem;
+		}
+	}
+}
+
+.featureContainer {
 	width: 100%;
 	display: flex;
 	flex-direction: column;
