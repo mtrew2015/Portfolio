@@ -26,7 +26,7 @@ class Body extends Component {
 							<h2>Thoughtful Workflows</h2>
 						</div>
 						<div className='box'>
-							<h2>Your Satisfaction Is Ensured</h2>
+							<h2>Your Satisfaction Is Our Priority</h2>
 						</div>
 					</div>
 				</div>
