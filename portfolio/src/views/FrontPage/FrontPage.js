@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import './index.scss';
+import './FrontPage.scss';
 
-class Body extends Component {
+class FrontPage extends Component {
 	render() {
 		return (
 			<div className='body'>
@@ -35,4 +35,4 @@ class Body extends Component {
 	}
 }
 
-export default Body;
+export default FrontPage;
