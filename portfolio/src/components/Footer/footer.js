@@ -4,7 +4,7 @@ import './footer.scss'
 
 function Footer() {
 	return (
-		<div>
+		<div className='footerContainer'>
 			<Link to='/'>Home</Link>
 			<Link to ='/about'>About</Link>
 			<Link to='/contact'>Contact Us</Link>
