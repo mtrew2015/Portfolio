@@ -17,16 +17,16 @@ class FrontPage extends Component {
 					<h1>Development Done Better</h1>
 					<div className="boxContainer">
 						<div className="box">
-							<h2>Services To Meet Your Companies Needs</h2>
+							<h2>Dynamic Web Pages</h2>
 						</div>
 						<div className="box">
-							<h2>Technologies Used To Best Suit Your Project</h2>
+							<h2>Responsive Designs</h2>
 						</div>
 						<div className="box">
 							<h2>Thoughtful Workflows</h2>
 						</div>
 						<div className="box">
-							<h2>Your Satisfaction Is Our Priority</h2>
+							<h2>Focus on Quality</h2>
 						</div>
 					</div>
 				</div>
