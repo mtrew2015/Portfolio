@@ -13,20 +13,33 @@ class FrontPage extends Component {
 					</div>
 				</div>
 
-				<div className='featureContainer'>
+				<div className="featureContainer">
 					<h1>Development Done Better</h1>
-					<div className='boxContainer'>
-						<div className='box'>
-							<h2>Services To Meet Your Companies Needs</h2>
+					<div className="boxContainer">
+						<div className="box">
+							<h2>Dynamic Web Pages</h2>
+							<p>
+								Every web page will be carefully crafted to include latest design principles and best
+								practices. I strive for my websites to look good on any device.
+							</p>
 						</div>
-						<div className='box'>
-							<h2>Technologies Used To Best Suit Your Project</h2>
+						<div className="box">
+							<h2>Designed to Spec</h2>
+							<p>
+								Let me make your design of a website come true. I can hand craft any design that you
+								would like to accomplish.
+							</p>
 						</div>
-						<div className='box'>
-							<h2>Thoughtful Workflows</h2>
+						<div className="box">
+							<h2>Attention to Detail</h2>
+							<p>Attention to details matter, and I want to make sure every element looks great.</p>
 						</div>
-						<div className='box'>
-							<h2>Your Satisfaction Is Our Priority</h2>
+						<div className="box">
+							<h2>Focus on Quality</h2>
+							<p>
+								Final products will be thoroughly tested to ensure that your site or web app performs as
+								its expected to.{' '}
+							</p>
 						</div>
 					</div>
 				</div>
