@@ -57,6 +57,7 @@ class FrontPage extends Component {
                     <ul className="skillsList">
                     <li>React JS</li>
                     <li>Testing</li>
+                    <li>Github</li>
                     <li>JavaScript</li>
                     <li>Node JS</li>
                     <li>Express</li>
