@@ -1,15 +1,18 @@
+.body {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	border: 2px solid red;
+	margin: 0 auto;
+}
+
 .jumbotron {
 	height: 70vh;
 	width: 100%;
 	border: 2px solid red;
 	display: flex;
 	justify-content: center;
-  align-items: center;
-  
-  .body{
-    display:flex;
-    flex-direction: column;
-  }
+	align-items: center;
 
 	.textContainer {
 		width: 40%;
@@ -21,7 +24,7 @@
 			margin-top: 20%;
 			font-size: 2.4rem;
 		}
-		button{
+		button {
 			height: 40px;
 			width: 120px;
 			align-self: center;
@@ -32,11 +35,11 @@
 	}
 }
 
-.contactButton{
-  margin-top:10px;
-  height: 40px;
-  width: 100px;
-  align-self:center;
+.contactButton {
+	margin-top: 10px;
+	height: 40px;
+	width: 100px;
+	align-self: center;
 }
 
 .featureContainer {
@@ -62,7 +65,7 @@
 		flex-direction: column;
 		h2 {
 			text-align: center;
-			font-size:2rem;
+			font-size: 2rem;
 		}
 		width: 35%;
 		height: 30vh;
@@ -71,15 +74,15 @@
 	}
 }
 
-.skillSection{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 10px;
+.skillSection {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 10px;
 
-.skillsList{
-   margin-top: 20px;
-   font-size: 1.8rem;
-   list-style: disc 
-}
+	.skillsList {
+		margin-top: 20px;
+		font-size: 1.8rem;
+		list-style: disc;
+	}
 }
