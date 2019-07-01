@@ -56,6 +56,7 @@ class FrontPage extends Component {
                     <p>This is just a sample of of the skills that I possess, it is not all inclusive. I am always learning new skills and enhancing my learning of aquired skills.</p>
                     <ul className="skillsList">
                     <li>React JS</li>
+					<li>Python</li>
                     <li>Testing</li>
                     <li>Github</li>
                     <li>JavaScript</li>

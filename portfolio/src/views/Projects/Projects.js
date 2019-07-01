@@ -6,6 +6,14 @@ import './Projects.scss';
         return (
             <div>
              <h1>Projects Page</h1>   
+             <div className="projectBlock">
+                 <h2>Project Title</h2>
+                 <p>Description:</p>
+                 <p>Insert Image Here</p>
+                 <p>Link</p>
+                 <p>Github Repo</p>
+
+             </div>
             </div>
         )
     }
