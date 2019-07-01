@@ -5,7 +5,7 @@ import './Projects.scss';
     render() {
         return (
             <div>
-             <h1>Projects Page</h1>   
+             <h1 className="projectH1">Projects Page</h1>   
              <div className="projectBlock">
                  <h2>Project Title</h2>
                  <p>Description:</p>
