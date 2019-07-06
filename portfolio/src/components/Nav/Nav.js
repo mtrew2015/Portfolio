@@ -8,7 +8,6 @@ class Nav extends Component {
 			<div className="nav">
 				<div className="menu">
 					<Link to="/">Home</Link>
-
 					<Link to="/projects">Projects</Link>
 				</div>
 			</div>
