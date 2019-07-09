@@ -44,12 +44,7 @@
 	}
 }
 
-.contactButton {
-	margin-top: 10px;
-	height: 40px;
-	width: 100px;
-	align-self: center;
-}
+
 
 .featureContainer {
 	width: 100%;
@@ -69,7 +64,8 @@
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-around;
-	width: 75%;
+    width: 75%;
+    margin-bottom: 10px;
     border: 2px solid $color3;
     border-radius: 10px;
     box-shadow: 5px 5px $color4;

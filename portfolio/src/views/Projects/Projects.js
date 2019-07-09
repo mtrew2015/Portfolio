@@ -20,7 +20,7 @@ class Projects extends Component {
 					</button>
 					<a href={'https://github.com/Lambda-School-Labs/labspt2-rate-my-diy'}>Github Repo</a>
 					<div className="projectBlock">
-						<h2>Lamda Notes </h2>
+						<h2>Lambda Notes </h2>
 						<p>
 							A full stack web app that allows users to log in and save notes that they can refer to later with a quick sign in. React JS was used for the front end, while a Node JS and express server were implemented with PostgreSQL for the back end.
 						</p>
