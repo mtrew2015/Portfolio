@@ -4,11 +4,11 @@ import './FrontPage.scss';
 class FrontPage extends Component {
 	render() {
 		return (
-			<div className='body'>
+			<div className='container'>
 				<div className='jumbotron'>
 					<div className='textContainer'>
-						<h1>Hello My Name Is Michael and I am a Web Developer</h1>
-						<h3>I look forward to helping you on your next project</h3>
+						<h1>Hello, My Name is Michael and I am a Web Developer</h1>
+						<h3>I look forward to helping you on your next project.</h3>
 						<button className='contactButton'>Contact Me</button>
 					</div>
 				</div>
