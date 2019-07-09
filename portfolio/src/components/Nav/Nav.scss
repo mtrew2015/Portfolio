@@ -1,3 +1,4 @@
+@import './../../globals/globals.scss';
 .h1 {
 	color: green;
 }
@@ -6,22 +7,23 @@
 	width: 100%;
 	display: flex;
 	flex-direction: row;
-	height: 10vh;
-	border: 2px solid blue;
+	height: 7vh;
+	border: 2px solid green;
+	background-color: $color5;
 
 	.menu {
 		display: flex;
 		justify-content: center;
-    width: 100%;
-    border: 2px solid purple;
+		width: 100%;
+		align-items: center;
 
 		a {
 			display: flex;
-      margin: 10px 25px;
-      padding:10px;
+			margin: 10px 25px;
+			padding: 10px;
 			text-decoration: none;
-			color: navy;
-      font-size: 24px;
+			color: $color1;
+			font-size: 28px;
 		}
 	}
 }
