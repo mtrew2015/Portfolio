@@ -24,12 +24,9 @@ class FrontPage extends Component {
 							</p>
 						</div>
 						<div className='box'>
-							<h2>Hard Work is in my DNA</h2>
+							<h2>Quality, Clean Code</h2>
 							<p>
-								Hard work has always been something that I've grown up with. My parents made me get a job when I was 14
-								if I wanted to have any money to buy things or hang out with friends and go places. This has carried on
-								into my adult life as I've always worked and went to college, and most lately, Lambda School. I am not
-								afraid of hard work, and I love being challenged.
+								I believe in doing the code right the first time and having well organized code for readability and for other developers to be able to read my code with ease.
 							</p>
 						</div>
 						<div className='box'>
@@ -52,8 +49,7 @@ class FrontPage extends Component {
 					</div>
 				</div>
 				<div className='skillSection'>
-                    <h1>Skills</h1>
-                    <p>This is just a sample of of the skills that I possess, it is not all inclusive. I am always learning new skills and enhancing my learning of aquired skills.</p>
+                    <h1>Skills and Frameworks</h1>
                     <ul className="skillsList">
                     <li>React JS</li>
 					<li>Python</li>
