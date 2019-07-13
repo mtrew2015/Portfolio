@@ -6,3 +6,5 @@ Welcome to my Portfolio site Github repo. I strive to write great code, and crea
 
 ### Front End Framework
 I used React JS since it's just a great framework for combining JavaScript and HTML into a nice, clean, single page application. It works really well in a dynamic porfolio situation.
+
+I have styled the page using Node-SASS since it works seamlessly with React JS and it makes styling more streamlined and straightforward.
