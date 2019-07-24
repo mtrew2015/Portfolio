@@ -50,7 +50,7 @@ class FrontPage extends Component {
 				</div>
 				<div className='skillSection'>
                     <h1>Skills and Frameworks</h1>
-                    <ul className="skillsList">
+                    <ul>
                     <li>React JS</li>
 					<li>Python</li>
                     <li>Testing</li>
